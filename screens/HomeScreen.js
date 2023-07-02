@@ -72,7 +72,7 @@ export default function HomeScreen() {
           
       </SafeAreaView>
 
-      {/* coffee cards */}
+      {/*cards */}
       <View className={`overflow-visible flex justify-center flex-1 ${ios? 'mt-10':''}`}>
         <View>
           <Carousel
